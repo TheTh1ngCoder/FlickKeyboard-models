@@ -1,6 +1,6 @@
 # Privacy Policy & Terms of Use — FlickKeyboard
 
-**Last Updated:** March 12, 2026
+**Last Updated:** March 13, 2026
 
 ## 1. Introduction
 
@@ -35,7 +35,7 @@ You can clear all locally stored data by uninstalling the App.
 
 The App requires Internet access **exclusively** for:
 
-- **Downloading voice recognition models** — optional AI models (~50 MB) for offline voice input. This is a one-time download initiated only by user action in Settings.
+- **Downloading voice recognition models** — an optional offline AI model (~275 MB) for voice input. This is a one-time download initiated only by user action in Settings.
 
 No other network activity occurs. The App does not contact any servers during normal keyboard use.
 
@@ -68,21 +68,31 @@ The App uses the following open-source components:
 | sherpa-onnx (by k2-fsa) | Apache License 2.0 | Neural network inference engine |
 | Silero VAD (by Silero Team) | MIT License | Voice activity detection |
 
-Full license texts are available in the App under Settings → About → Open Source Licenses.
+Full license texts are available in the App under Settings → Open Source Licenses.
 
 ## 8. Children's Privacy
 
 FlickKeyboard does not knowingly collect personal information from children under 13. Since the App collects no personal data at all, it is safe for users of all ages.
 
-## 9. Changes to This Policy
+## 9. Regulatory Compliance
+
+This App complies with applicable data protection regulations, including:
+
+- **GDPR** — General Data Protection Regulation (European Union)
+- **PIPL** — Personal Information Protection Law of the People's Republic of China (中华人民共和国个人信息保护法)
+- **Federal Law No. 152-FZ** «On Personal Data» (Russian Federation)
+
+Since FlickKeyboard does not collect, process, or transmit any personal data, compliance is inherently satisfied.
+
+## 10. Changes to This Policy
 
 We may update this Privacy Policy from time to time. Changes will be posted on this page with an updated "Last Updated" date. Continued use of the App after changes constitutes acceptance of the updated policy.
 
-## 10. Terms of Use
+## 11. Terms of Use
 
 FlickKeyboard is provided "as is" without warranties of any kind, express or implied. The developer is not liable for any damages arising from the use of the App, including but not limited to data loss, device malfunction, or interruption of service.
 
-## 11. Contact
+## 12. Contact
 
 If you have questions about this Privacy Policy, contact us at:
 
