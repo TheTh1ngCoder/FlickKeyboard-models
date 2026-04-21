@@ -1,6 +1,6 @@
 # Privacy Policy & Terms of Use — FlickKeyboard
 
-**Last Updated:** March 13, 2026
+**Last Updated:** April 21, 2026
 
 ## 1. Introduction
 
@@ -35,7 +35,7 @@ You can clear all locally stored data by uninstalling the App.
 
 The App requires Internet access **exclusively** for:
 
-- **Downloading voice recognition models** — an optional offline AI model (~275 MB) for voice input. This is a one-time download initiated only by user action in Settings.
+- **Downloading voice recognition models** — an optional offline AI model (~225 MB, GigaAM V3 with punctuation) for voice input. This is a one-time download initiated only by user action in Settings.
 
 No other network activity occurs. The App does not contact any servers during normal keyboard use.
 
@@ -92,9 +92,24 @@ We may update this Privacy Policy from time to time. Changes will be posted on t
 
 FlickKeyboard is provided "as is" without warranties of any kind, express or implied. The developer is not liable for any damages arising from the use of the App, including but not limited to data loss, device malfunction, or interruption of service.
 
-## 12. Contact
+## 12. Your Rights as a Data Subject
 
-If you have questions about this Privacy Policy, contact us at:
+Even though FlickKeyboard does not collect, transmit, or store personal data on external servers, applicable laws (GDPR, PIPL, Federal Law No. 152-FZ) grant you the following rights regarding any data that could be associated with you:
+
+- **Right to be informed** — this document informs you of all data practices of the App (which reduce to "nothing leaves your device").
+- **Right of access** — you can inspect all data stored locally by the App via system file-manager in the App's sandbox, or by exporting from Settings (where available).
+- **Right to rectification** — you can modify keyboard settings, user dictionary, and recent emoji directly in the App. There is no server-side data to correct.
+- **Right to erasure** — you can clear all locally stored data at any time by **uninstalling the App**, or by deleting the voice recognition model in Settings.
+- **Right to restrict processing** — you can disable any feature (voice input, swipe typing, predictions, etc.) via in-keyboard settings. Microphone permission can be revoked in system settings.
+- **Right to data portability** — since the App does not collect personal data, there is nothing to transfer. User dictionary and settings are local and can be backed up via HarmonyOS system backup.
+- **Right to object** — you can stop using the App at any time by uninstalling it.
+- **Right to withdraw consent** — microphone access and internet access can be revoked in system settings without losing core keyboard functionality.
+
+Because no personal data is transmitted to or stored by the developer, most rights requests (access, deletion, portability) are fulfilled directly by the App's local storage model. For any questions regarding these rights, contact the developer at **th1ng.app@mail.ru**. We respond within 30 days in accordance with GDPR Article 12.
+
+## 13. Contact
+
+If you have questions about this Privacy Policy or your data subject rights, contact us at:
 
 📧 **th1ng.app@mail.ru**
 
